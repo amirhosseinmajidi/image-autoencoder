@@ -36,7 +36,7 @@ This project was designed with the following educational and practical objective
 
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_PROJECT_URL]
+    git clone https://github.com/amirhosseinmajidi/image-autoencoder.git
     ```
 2.  Open the Jupyter Notebooks (`.ipynb`) in an environment like Jupyter Lab, Jupyter Notebook, or Google Colab.
 3.  Run the cells sequentially to execute the code, train the models, and visualize the results. It is recommended to use a GPU-enabled environment for faster training.
